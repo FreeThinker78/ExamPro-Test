@@ -1,6 +1,6 @@
----
-name: Alternate Pull Request Checklist
-about: Alternate pull request checklist.
+s---
+name: Pull Request Checklist
+about: Pull request checklist.
 ---
 
 # Pull Request Template
